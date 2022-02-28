@@ -1,0 +1,7 @@
+HardBrick
+ https://forum.xda-developers.com/t/redmi-9-brick-problem-solution.4155871/page-3
+ https://forum.xda-developers.com/t/disable-authorization-and-unbrick-your-redmi-9.4228213/
+ https://forum.xda-developers.com/t/guide-how-to-bypass-authentication-and-flash-in-edl-with-no-auth-for-free.4229683/
+ https://tinyhack.com/2021/01/31/dissecting-a-mediatek-bootrom-exploit/
+ https://forum.xda-developers.com/t/faq-guide-help-assistance-solution-centre-for-merlin-redmi-note-9-redmi-10x-4g.4225163/
+ https://megafon929.github.io/mtk

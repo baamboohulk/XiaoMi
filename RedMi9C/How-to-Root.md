@@ -32,7 +32,7 @@ Next retry again the whole tutorial. You can also use USB-OTG mouse.
 
 - In recovery, move to 'backup' and make a backup to your SD card (optional, but highly recommended). Usually, it doesn`t work out of the box. Try searching for guides.
 
-- In the same section install ---enfec.zip--- and then Magisk.zip. If you get errors like 'Failed to mount /nv_data', ignore them.
+- In the same section install ~~enfec.zip~~ and then Magisk.zip. If you get errors like 'Failed to mount /nv_data', ignore them.
 
 - Reboot to system, copy external_sd/PBRB/tools -> storage/0/emulated/PBRB/
 

@@ -9,7 +9,7 @@
 
 - Move recovery.img to both your ADB folder (can be found at C:\adb) and phone`s storage
 
-- [Download](https://zackptg5.com/android.php#disverfe) DM-VERITY, FORCED ENCRYPTION
+- ~~[Download](https://zackptg5.com/android.php#disverfe) DM-VERITY, FORCED ENCRYPTION~~
 
 - ~~Rename it to `enfec.zip` and place in phone`s storage~~
 

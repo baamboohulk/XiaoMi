@@ -11,7 +11,7 @@
 
 - [Download](https://zackptg5.com/android.php#disverfe) DM-VERITY, FORCED ENCRYPTION
 
-- Rename it to `enfec.zip` and place in phone`s storage
+- ~~Rename it to `enfec.zip` and place in phone`s storage~~
 
 - Download attached [vbmeta.img](https://forum.xda-developers.com/attachments/vbmeta-img.5257631/) and place it in your ADB folder
 
